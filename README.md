@@ -82,4 +82,4 @@
 
 ---
 
-Проект вдохновлён инструкцией от Александра Linux: [Установка WireGuard на Synology NAS](https://bafista.ru/ustanovka-wireguard-na-synology-nas-v-dsm-7-i-dsm-6/)
+🙏 Проект вдохновлён инструкцией от Александра Linux: [Установка WireGuard на Synology NAS](https://bafista.ru/ustanovka-wireguard-na-synology-nas-v-dsm-7-i-dsm-6/)
