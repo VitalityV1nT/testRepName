@@ -5,8 +5,8 @@
 
 ### 🖼 Интерфейс
 <p align="center">
-  <img src="screenshots/yad1.png" width="48%" />
-  <img src="screenshots/yad2.png" width="48%" />
+  <img src="screenshots/status.png" width="48%" />
+  <img src="screenshots/log.png" width="48%" />
 </p>
 
 ### 🔧 Возможности
