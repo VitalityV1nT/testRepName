@@ -1,0 +1,20 @@
+#!/bin/sh
+
+DAEMON="/usr/local/bin/yandex-disk"
+LOGGER="/var/packages/YandexDisk/scripts/yandexdisk_logger.sh"
+
+case "$1" in
+    start)
+		$DAEMON start
+        "$LOGGER" &
+		exit 0
+        ;;
+    stop)
+		$DAEMON stop
+        pkill yandexdisk_logger.sh
+		exit 0
+        ;;
+    status)
+		ps -eo cmd | grep -q "[y]andex-disk" && exit 0 || exit 3
+		;;
+esac
