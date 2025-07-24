@@ -1,0 +1,14 @@
+{
+	"main.js": {
+		"SYNOCOMMUNITY.YandexDisk.AppInstance": {
+		"depend":[],
+		"title":"Yandex Disk",
+		"appWindow":"SYNOCOMMUNITY.YandexDisk.AppInstance",
+		"allUsers":false,
+		"allowMultiInstance":false,
+		"hidden":false,
+		"type":"app",
+		"icon":"images\/{0}.png"
+		}
+	}
+}
