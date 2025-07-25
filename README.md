@@ -5,8 +5,8 @@
 
 ### 🖼 Интерфейс
 <p align="center">
-  <img src="screenshots/status.png" width="48%" />
-  <img src="screenshots/log.png" width="48%" />
+  <img width="48%" alt="log" src="https://github.com/user-attachments/assets/fe684ab1-3751-4887-94b1-5c6aeb1cbda2" />
+  <img width="48%" alt="status" src="https://github.com/user-attachments/assets/0eb2f74b-d614-423b-973c-418b881b7947" />
 </p>
 
 ### 🔧 Возможности
